@@ -18,3 +18,6 @@ ___
 ## 1er Commit (Estructura Inicial funcional).  
 Este commit contiene la estructura inicial de la aplicacion front end en angular 8.  
 ___  
+## 2do Commit (Modulos, Shared Module, Rutas y Rutas hijas).  
+Este commit contiene la estructura inicial de la aplicacion front end en angular 8.  
+___  
